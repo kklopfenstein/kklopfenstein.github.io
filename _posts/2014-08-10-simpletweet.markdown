@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating a Twitter bot with Node.js"
-date:   2014-05-12 09:50:00
+date:   2014-08-10 09:50:00
 categories: node.js twitter
 ---
 
