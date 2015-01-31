@@ -1,0 +1,24 @@
+---
+---
+
+// start content
+header.site-header {
+  background-image: url('../images/header_1080.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: blur(20px); 
+  /*-webkit-filter: blur(20px);*/
+  min-height: 275px;
+  .wrap {
+    .site-title {
+       border-radius: 10px;
+       background-color: #FFFFFF;
+       padding: 0px 15px;
+       border: solid 1px;
+       margin-top: 5px;
+       border-color: #e8e8e8;
+       font-weight: 600;
+    }
+  }
+}
+
