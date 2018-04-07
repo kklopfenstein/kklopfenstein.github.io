@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enable JSON Logging in Tomcat 8 with Log4j2"
-date:   2018-03-06 20:00:00
+date:   2018-04-06 20:00:00
 categories: java8 tomcat8 log4j2 
 ---
 
