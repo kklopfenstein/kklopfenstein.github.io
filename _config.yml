@@ -3,6 +3,8 @@ title: Kevin Klopfenstein
 description: "Thoughts on technology."
 baseurl: ""
 url: "http://www.kevinklopfenstein.com"
+githubhandle: "kklopfenstein"
+twitterhandle: "klopkev"
 
 # Build settings
 markdown: kramdown
