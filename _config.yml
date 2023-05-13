@@ -2,7 +2,7 @@
 title: Kevin Klopfenstein
 description: "Thoughts on technology."
 baseurl: ""
-url: "http://kklopfenstien.github.io/"
+url: "http://www.kklopfenstien.github.io/"
 
 # Build settings
 markdown: kramdown
